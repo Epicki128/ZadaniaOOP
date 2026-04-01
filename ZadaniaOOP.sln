@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FetchAPI", "FetchAPI\FetchA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dice", "Dice\Dice.csproj", "{26461578-0C7E-4386-A554-F298D39E37AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAnalyser", "FileAnalyser\FileAnalyser.csproj", "{59611BD7-6D96-4615-9AF9-03CAC05A6883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveToFile", "SaveToFile\SaveToFile.csproj", "{38EDB25A-7925-4930-87CD-0E665B1A8E93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{26461578-0C7E-4386-A554-F298D39E37AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26461578-0C7E-4386-A554-F298D39E37AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26461578-0C7E-4386-A554-F298D39E37AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59611BD7-6D96-4615-9AF9-03CAC05A6883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59611BD7-6D96-4615-9AF9-03CAC05A6883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59611BD7-6D96-4615-9AF9-03CAC05A6883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59611BD7-6D96-4615-9AF9-03CAC05A6883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38EDB25A-7925-4930-87CD-0E665B1A8E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38EDB25A-7925-4930-87CD-0E665B1A8E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38EDB25A-7925-4930-87CD-0E665B1A8E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38EDB25A-7925-4930-87CD-0E665B1A8E93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

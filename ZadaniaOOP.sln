@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAnalyser", "FileAnalyse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveToFile", "SaveToFile\SaveToFile.csproj", "{38EDB25A-7925-4930-87CD-0E665B1A8E93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz", "Quiz\Quiz.csproj", "{3A72ABB4-6044-4EF1-BC17-B56119DEC89C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{38EDB25A-7925-4930-87CD-0E665B1A8E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38EDB25A-7925-4930-87CD-0E665B1A8E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38EDB25A-7925-4930-87CD-0E665B1A8E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A72ABB4-6044-4EF1-BC17-B56119DEC89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A72ABB4-6044-4EF1-BC17-B56119DEC89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A72ABB4-6044-4EF1-BC17-B56119DEC89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A72ABB4-6044-4EF1-BC17-B56119DEC89C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
